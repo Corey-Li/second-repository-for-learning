@@ -2,3 +2,6 @@ This is first text file for my second repository.
 The second repository is created in GitHub website, then it is cloned to my laptop.
 From now on, my private repository will be folded in this folder.
 File path:D\usual_install\git_install\Git\learningfiles.
+
+This time I will change something.
+I add these two sentences.
